@@ -1,0 +1,32 @@
+C:\Users\ruben\Desktop\teclado\bin\Debug\net5.0\teclado.exe
+C:\Users\ruben\Desktop\teclado\bin\Debug\net5.0\teclado.deps.json
+C:\Users\ruben\Desktop\teclado\bin\Debug\net5.0\teclado.runtimeconfig.json
+C:\Users\ruben\Desktop\teclado\bin\Debug\net5.0\teclado.runtimeconfig.dev.json
+C:\Users\ruben\Desktop\teclado\bin\Debug\net5.0\teclado.dll
+C:\Users\ruben\Desktop\teclado\bin\Debug\net5.0\ref\teclado.dll
+C:\Users\ruben\Desktop\teclado\bin\Debug\net5.0\teclado.pdb
+C:\Users\ruben\Desktop\teclado\obj\Debug\net5.0\teclado.csproj.AssemblyReference.cache
+C:\Users\ruben\Desktop\teclado\obj\Debug\net5.0\teclado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\Desktop\teclado\obj\Debug\net5.0\teclado.AssemblyInfoInputs.cache
+C:\Users\ruben\Desktop\teclado\obj\Debug\net5.0\teclado.AssemblyInfo.cs
+C:\Users\ruben\Desktop\teclado\obj\Debug\net5.0\teclado.csproj.CoreCompileInputs.cache
+C:\Users\ruben\Desktop\teclado\obj\Debug\net5.0\teclado.dll
+C:\Users\ruben\Desktop\teclado\obj\Debug\net5.0\ref\teclado.dll
+C:\Users\ruben\Desktop\teclado\obj\Debug\net5.0\teclado.pdb
+C:\Users\ruben\Desktop\teclado\obj\Debug\net5.0\teclado.genruntimeconfig.cache
+C:\Users\ruben\Desktop\programa VSC\bin\Debug\net5.0\teclado.exe
+C:\Users\ruben\Desktop\programa VSC\bin\Debug\net5.0\teclado.deps.json
+C:\Users\ruben\Desktop\programa VSC\bin\Debug\net5.0\teclado.runtimeconfig.json
+C:\Users\ruben\Desktop\programa VSC\bin\Debug\net5.0\teclado.runtimeconfig.dev.json
+C:\Users\ruben\Desktop\programa VSC\bin\Debug\net5.0\teclado.dll
+C:\Users\ruben\Desktop\programa VSC\bin\Debug\net5.0\ref\teclado.dll
+C:\Users\ruben\Desktop\programa VSC\bin\Debug\net5.0\teclado.pdb
+C:\Users\ruben\Desktop\programa VSC\obj\Debug\net5.0\teclado.csproj.AssemblyReference.cache
+C:\Users\ruben\Desktop\programa VSC\obj\Debug\net5.0\teclado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\Desktop\programa VSC\obj\Debug\net5.0\teclado.AssemblyInfoInputs.cache
+C:\Users\ruben\Desktop\programa VSC\obj\Debug\net5.0\teclado.AssemblyInfo.cs
+C:\Users\ruben\Desktop\programa VSC\obj\Debug\net5.0\teclado.csproj.CoreCompileInputs.cache
+C:\Users\ruben\Desktop\programa VSC\obj\Debug\net5.0\teclado.dll
+C:\Users\ruben\Desktop\programa VSC\obj\Debug\net5.0\ref\teclado.dll
+C:\Users\ruben\Desktop\programa VSC\obj\Debug\net5.0\teclado.pdb
+C:\Users\ruben\Desktop\programa VSC\obj\Debug\net5.0\teclado.genruntimeconfig.cache
