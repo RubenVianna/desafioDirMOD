@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Text;
 
 namespace teclado
 {
@@ -13,6 +12,7 @@ namespace teclado
             string Output = null;
             string[,] abc = new string[26, 2];
             char valorViejo = ' ';
+            int cantidadLetras = 0;
 
             while (correcto != 1) //Validamos que el usuario ingreso lo que quiere buscar, caso contrario se vuelve a pedir que ingrese los datos si asi lo desea
             {
@@ -22,14 +22,34 @@ namespace teclado
                 Console.WriteLine("¿Es correcto? 1- SI  2- NO");
                 correcto = int.Parse(Console.ReadLine());
                 mensaje = mensaje.ToUpper();
+                cantidadLetras = mensaje.Length;
 
+                //-------------------------------------------------------------------------Arrancan las validaciones-----------------------------------------------------
                 if (correcto != 1 && correcto != 2)
                 {
                     Console.WriteLine("Usted ingreso una opcion no valida, por favor, intente de nuevo");
                 }
+
+                if (correcto == 1 || correcto == 2)
+                {
+                    for (int i = 0; i < mensaje.Length; i++)
+                    {
+                        if (!char.IsLetter(mensaje[i]) || mensaje[i] == 'Ñ')
+                        {
+                            if (mensaje[i] != ' ')
+                            {
+                                i = mensaje.Length;
+                                Console.WriteLine("Solo se aceptan letras, por favor, intente de nuevo");
+                                correcto = 5;
+                            }
+
+                        }
+                    }
+                }
             }
 
-            int cantidadLetras = mensaje.Length;
+              //--------------------------------------------------------------Continua el programa---------------------------------------------------------------------------
+            
             CargarMatriz();
 
 
@@ -96,7 +116,7 @@ namespace teclado
                             }
                         }
                     }
-               //     Console.WriteLine(abc[i, 1]);
+                    //     Console.WriteLine(abc[i, 1]);
                 }
             }
 
